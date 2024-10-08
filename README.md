@@ -5,6 +5,7 @@ A minimal Astro, TailwindCSS and AlpineJS starter.
 ```sh
 npm create astro@latest -- --template awcot/astro-alpinewind
 ```
+
 ![image](https://github.com/user-attachments/assets/01c8c3fe-9b5f-4992-988a-8f098dde574b)
 
 ## 🧞 Commands
@@ -19,4 +20,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm run format`          | Run prettier (writes to disk)                    |
 | `npm run lint`            | Run eslint                                       |
