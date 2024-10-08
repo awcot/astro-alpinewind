@@ -1,9 +1,11 @@
 # 🚀 Astro AlpineWind 🌬️🏔️
+
 A minimal Astro, TailwindCSS and AlpineJS starter.
 
 ```sh
 npm create astro@latest -- --template awcot/astro-alpinewind
 ```
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
