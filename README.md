@@ -5,6 +5,7 @@ A minimal Astro, TailwindCSS and AlpineJS starter.
 ```sh
 npm create astro@latest -- --template awcot/astro-alpinewind
 ```
+![image](https://github.com/user-attachments/assets/01c8c3fe-9b5f-4992-988a-8f098dde574b)
 
 ## 🧞 Commands
 
