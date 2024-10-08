@@ -1,4 +1,4 @@
-# 🚀 Astro AlpineWind 🌬️🏔️
+# Astro AlpineWind 🌬️🏔️
 
 A minimal Astro, TailwindCSS and AlpineJS starter.
 
